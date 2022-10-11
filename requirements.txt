@@ -1,0 +1,6 @@
+Requirments
+
+
+
+Speech Recongnition. ( pip install SpeechRecognition )
+
